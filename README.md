@@ -1,7 +1,7 @@
-# Google Scholar Telegram Bot
+# Telegram - Journal Search
 
 ## 📌 Deskripsi Proyek
-Google Scholar Telegram Bot adalah bot otomatis yang memungkinkan pengguna mencari jurnal akademis langsung dari Google Scholar melalui Telegram. Bot ini menggunakan Selenium untuk scraping data dan menampilkan hasil pencarian dalam format yang mudah dibaca di Telegram.
+Telegram - Journal Search adalah bot otomatis yang memungkinkan pengguna mencari jurnal akademis langsung dari Google Scholar melalui Telegram. Bot ini menggunakan Selenium untuk scraping data dan menampilkan hasil pencarian dalam format yang mudah dibaca di Telegram.
 
 ## 🚀 Fitur Utama
 - 🔍 **Pencarian Jurnal**: Gunakan perintah `/search` untuk mencari jurnal akademis berdasarkan kata kunci.
